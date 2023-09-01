@@ -6,14 +6,14 @@
 
 ![mobile-responsive](https://img.shields.io/badge/Mobile%20Responsive-Yes-green)
 [![Deployed](https://img.shields.io/badge/Deployed-Yes-green)](#)
-![Time](https://img.shields.io/badge/Time%20Taken-5hrs-green)
+![Time](https://img.shields.io/badge/Time%20Taken-6hrs-green)
 
 ## Tech Stack:
 
 ![HTML](https://img.shields.io/badge/html-3670A0?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-%234ea94b.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### _Live Hosted Link 🚀_ : _[Product Homepage]()_
+### _Live Hosted Link 🚀_ : _[Product Homepage](https://wireless-headphone-homepage.netlify.app/)_
 
 ## How the website looks like:
 
